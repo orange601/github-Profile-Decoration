@@ -12,5 +12,8 @@ https://velog.io/@colorful-stars/Github-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB
 ## 뱃지 만들어주는 사이트 ##
 https://shields.io/
 
+## 이모지
+https://steemit.com/steemkr-guide/@snow-airline/steemkr-quick-start-guide
+
 ## 참고한 사이트 ##
 https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0
